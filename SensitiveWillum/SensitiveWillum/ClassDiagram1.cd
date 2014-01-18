@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GDLibrary.Behaviours.Behaviour" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GDLibrary\Behaviours\Behaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Camera2D" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALQAEAAEhAIEAwACAACACAICAAAARAAKBAAACCAAQIg=</HashCode>
+      <FileName>GDLibrary\Camera\Camera2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Camera2DTransform" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAgAAAACAAAACAQAABAACAAAAAAAAAAA=</HashCode>
+      <FileName>GDLibrary\Camera\Camera2DTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.BSPCollisionSectorInfo" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAACAQAAAgAA=</HashCode>
+      <FileName>GDLibrary\Collision Detection\BSPCollisionSectorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.BSPCollisionSectorLayout" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAABAAAAgAACAIAAAiACAAAgAgAA=</HashCode>
+      <FileName>GDLibrary\Collision Detection\BSPCollisionSectorLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Collision" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgGABAAAAQAAkAQAAAAAACKwAAAAIQAAEgAAAAQI4=</HashCode>
+      <FileName>GDLibrary\Collision Detection\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.KeyboardManager" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAgAAQAAAAAAAAAAAAAAAABAAAAAAAAAAoA=</HashCode>
+      <FileName>GDLibrary\Managers\Input\KeyboardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.MouseManager" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAQAAABAAAAAAAAAAgAAIAAACAAAAAIA=</HashCode>
+      <FileName>GDLibrary\Managers\Input\MouseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.MenuManager" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQIAKAAAAIAAwEEQAAgAAAAABAAAFEIACAAAAAiABA=</HashCode>
+      <FileName>GDLibrary\Managers\Menu\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.AnimatedTextureData" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABBAAAFAAACAAAAEAAAAAIQBAgAQAAAAAAABA=</HashCode>
+      <FileName>GDLibrary\Managers\Texture\AnimatedTextureData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GDLibrary.TextureData" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAABBAKAAAAAgAAAAEAAAAAAAgAAAAAAAiAAgEA=</HashCode>
+      <FileName>GDLibrary\Managers\Texture\TextureData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.AnimatedSprite" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAgAAABgAAAIAAAIAAAQAEIAAAoEAAIAAABAA=</HashCode>
+      <FileName>GDLibrary\Sprite\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Sprite" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIyAAABAAAEAAgAAAgCgAAAAAIAEAAAAEAIAGAAAgEA=</HashCode>
+      <FileName>GDLibrary\Sprite\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.SpritePositionInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAwAAAAIAAIBAAAAQACACAEKACAEIAACCACAAACggFA=</HashCode>
+      <FileName>GDLibrary\Sprite\SpritePositionInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GDLibrary.SpritePresentationInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAyAAAAAEAAAAAAAQAAAEAAAACAACAAAQAAAAAABA=</HashCode>
+      <FileName>GDLibrary\Sprite\SpritePresentationInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GDLibrary.Menu.MenuItem" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQABAAAAAAAgAAAAAAIAAAAAAFAABIAAAGAAIAAQA=</HashCode>
+      <FileName>GDLibrary\Managers\Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGPLibrary.Sound.SoundEffectInfo" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASIAAACAAAACIAAEAQAAAAAAAAACEAAAAAAAAACIFA=</HashCode>
+      <FileName>GDLibrary\Managers\Sound\SoundEffectInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGPLibrary.Sound.SoundManager" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAOAIACAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>GDLibrary\Managers\Sound\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Managers.SpriteManager" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAgAAIAAAggBACAAABAAAAQAgAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>GDLibrary\Managers\SpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Managers.TextureManager" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgABAAAAABAAAAAAAAAAJAAAAAAFAAAI=</HashCode>
+      <FileName>GDLibrary\Managers\Texture\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Utilities.DebugHelper" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAIQAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GDLibrary\Utilities\Debug\DebugHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Utilities.FPSCounter" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAIgAAAAAIIAACAAAACACAAAAAAAAAAAA=</HashCode>
+      <FileName>GDLibrary\Utilities\Debug\FPSCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Utilities.Integer2" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>GDLibrary\Utilities\Integer2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDLibrary.Utilities.TextureHelper" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GDLibrary\Utilities\TextureHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Main" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QKQScUAAlIGEYyoOgESUCgAEAAIgCAgBWBAgKAABiEU=</HashCode>
+      <FileName>Main\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Block" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main\SensitiveWillum\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Cloud" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAhAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main\SensitiveWillum\Cloud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.CloudFactory" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAQAAAACAAAAAAAAAIAAQAAAAAAARAAAABAQA=</HashCode>
+      <FileName>Main\SensitiveWillum\CloudFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.DynamicBlock" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main\SensitiveWillum\DynamicBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Enemy" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAgACAEAAAAAAAAAggAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main\SensitiveWillum\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.GameData" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAACAEAAAAAAoggFABAAAAAAAAAAAACQiCAAAKAA=</HashCode>
+      <FileName>Main\SensitiveWillum\GameData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Player" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIQGAAoAMYkCIhgIIsABEQgIAsCgAAQJIBygAhAAAIo=</HashCode>
+      <FileName>Main\SensitiveWillum\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.UIManager" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAgAAAEAEBAAAAgQAAAFAIAAAIAAACAA=</HashCode>
+      <FileName>Main\SensitiveWillum\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.LevelBuilder" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Main\Utilities\LevelBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.ModularAnimatedSprite" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAgAAAAAAAAAAAAAAIAAAAAIAAAAAA=</HashCode>
+      <FileName>Main\Utilities\ModularAnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.SpriteShell" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgAA=</HashCode>
+      <FileName>Main\Utilities\SpriteShell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SensitiveWillum.Program" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CopyUtil.CopyUtil" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main\Utilities\CopyUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
